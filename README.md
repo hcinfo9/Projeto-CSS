@@ -26,6 +26,6 @@
 <img align="center" src="https://github.com/hcinfo9/Projeto-CSS/blob/main/assets/Captura%20de%20tela%202024-04-26%20165124.png?raw=true" alt="img-mobile">
 
 <br>
-<h2>Como fica em PC´s de Desktops</h2>
+<h2>Como fica em PC´s de Mesa:</h2>
 <br>
 <img align="center" src="https://github.com/hcinfo9/Projeto-CSS/blob/main/assets/Captura%20de%20tela%202024-04-26%20165017.png?raw=true" alt="img-pc">
